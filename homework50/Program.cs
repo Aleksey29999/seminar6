@@ -41,7 +41,7 @@ void PrintArray(int[,] array)
 System.Console.WriteLine("введите номер строки массива");
 int Line = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("введите номер столбца массива");
-int Column = Convert.ToInt32(Console.ReadLine())
+int Column = Convert.ToInt32(Console.ReadLine());
 
 if (Line < m && Column < n)
     System.Console.WriteLine("заданный элемент массива =" + array[Line - 1, Column - 1]);
