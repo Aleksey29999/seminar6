@@ -1,0 +1,15 @@
+G:\gb\C#\seminar6\homework68\obj\Debug\net6.0\homework68.csproj.AssemblyReference.cache
+G:\gb\C#\seminar6\homework68\obj\Debug\net6.0\homework68.GeneratedMSBuildEditorConfig.editorconfig
+G:\gb\C#\seminar6\homework68\obj\Debug\net6.0\homework68.AssemblyInfoInputs.cache
+G:\gb\C#\seminar6\homework68\obj\Debug\net6.0\homework68.AssemblyInfo.cs
+G:\gb\C#\seminar6\homework68\obj\Debug\net6.0\homework68.csproj.CoreCompileInputs.cache
+G:\gb\C#\seminar6\homework68\bin\Debug\net6.0\homework68.exe
+G:\gb\C#\seminar6\homework68\bin\Debug\net6.0\homework68.deps.json
+G:\gb\C#\seminar6\homework68\bin\Debug\net6.0\homework68.runtimeconfig.json
+G:\gb\C#\seminar6\homework68\bin\Debug\net6.0\homework68.dll
+G:\gb\C#\seminar6\homework68\bin\Debug\net6.0\homework68.pdb
+G:\gb\C#\seminar6\homework68\obj\Debug\net6.0\homework68.dll
+G:\gb\C#\seminar6\homework68\obj\Debug\net6.0\refint\homework68.dll
+G:\gb\C#\seminar6\homework68\obj\Debug\net6.0\homework68.pdb
+G:\gb\C#\seminar6\homework68\obj\Debug\net6.0\homework68.genruntimeconfig.cache
+G:\gb\C#\seminar6\homework68\obj\Debug\net6.0\ref\homework68.dll
